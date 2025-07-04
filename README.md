@@ -8,7 +8,7 @@ I'm a passionate software developer focused on **Data Structures & Algorithms**,
 
 - 🌱 Currently strengthening my DSA and development skills.
 - 💻 Tech Stack: JavaScript, React.js, Node.js, MongoDB, HTML, CSS
-- 🎓 3rd Year ECE Student at NIT Bhopal
+- 🎓  I’m a student preparing for on-campus placements in the tech industry.
 - 📫 Looking forward to SDE and Business Analyst opportunities.
 
 ---
@@ -28,6 +28,9 @@ I'm a passionate software developer focused on **Data Structures & Algorithms**,
 #### 🔗 [Paste App](https://github.com/aayush8191/Paste-App)
 Built a paste sharing app with React, Redux, Vite, and local storage.
 
+#### 🔗 [Shopping_Cart](https://github.com/aayush8191/Shopping_Cart)
+A dynamic cart system built using React and TailwindCSS.
+
 #### 🔗 [Weather App](https://github.com/aayush8191/Weather-App)
 Fetches live weather data using OpenWeatherMap API.
 
@@ -44,8 +47,8 @@ Converts currency using real-time exchange rate API.
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayush-blue?logo=linkedin)](https://www.linkedin.com/in/aayush-chouhan-515463257/)
-[![Gmail](https://img.shields.io/badge/Gmail-dhansinghchouhan088@email.com-red?logo=gmail)](mailto:dhansinghchouhan088@email.com)
+- 🌐 [**LinkedIn**](https://www.linkedin.com/in/aayush-chouhan-515463257/)
+- 📧 [**Email**](mailto:dhansinghchouhan088@email.com)
 
 ---
 
